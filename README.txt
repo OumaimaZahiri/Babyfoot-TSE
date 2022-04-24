@@ -1,12 +1,11 @@
-Application d'assistance vidéo à l'arbitrage de matchs de Babyfoot
+This application provides an assistance to the arbitration of Babyfoot matches as part of a group project created by 5 people : Maxime Boichon, Clément Bourlet, Enguerran De Larocque Latour, Ilyas Tibari and myself (Oumaima Zahiri).
 
+Dates of creation : 10/2021 à 01/2022
 
-Créée par Maxime BOICHON, Clément BOURLET, Enguerran DE LAROCQUE LATOUR, Ilyas TIBARI et Oumaima ZAHIRI
-Dates de création : 10/2021 à 01/2022
+Having downloaded a JRE (Java Runtime Environment) is a precondition for the launch of this application :
+    https://www.java.com/fr/download/manual.jsp
 
-Prérequis pour le lancement de l'application :
-    Télécharger un JRE (Java Runtime Environment) : https://www.java.com/fr/download/manual.jsp
+To directly open the application, you can launch the executable file Projet-Info.jar in the directory Jar Executable
 
-Pour ouvrir l'application, lancez l'executable Projet-Info.jar dans le dossier Jar Executable
-
-Toute la documentation nécessaire à la compréhension de l'application se trouve dans le dossier Documentation
+All the documentation needed for to understand the functioning of Babyfoot-TSE is provided in the directory Documentation
+Some media are also provided for test
