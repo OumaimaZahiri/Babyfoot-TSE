@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.LinePlotter2Scene">
+   <children>
+      <VBox prefHeight="720.0" prefWidth="1280.0">
+         <children>
+            <AnchorPane prefHeight="720.0" prefWidth="1280.0">
+               <children>
+                  <ImageView fx:id="imageview" fitHeight="720.0" fitWidth="1280.0" pickOnBounds="true" preserveRatio="true" />
+               </children>
+            </AnchorPane>
+            <AnchorPane prefHeight="200.0" prefWidth="200.0">
+               <children>
+                  <Button fx:id="buttonLineBG" layoutX="31.0" layoutY="7.0" mnemonicParsing="false" onAction="#tracelineBG" text="TraceLineButG" />
+                  <Button fx:id="drawbutton" layoutX="770.0" layoutY="7.0" mnemonicParsing="false" onAction="#drawlines" text="Draw Lines" />
+                  <Button fx:id="buttonLineBD" layoutX="131.0" layoutY="7.0" mnemonicParsing="false" onAction="#tracelineBD" text="TraceLineButD" />
+                  <Button fx:id="buttonLineTG" layoutX="245.0" layoutY="7.0" mnemonicParsing="false" onAction="#tracelineTG" text="TraceLineTerG" />
+                  <Button fx:id="buttonLineTD" layoutX="345.0" layoutY="7.0" mnemonicParsing="false" onAction="#tracelineTD" text="TraceLineTerD" />
+                  <Button fx:id="done" layoutX="892.0" layoutY="7.0" mnemonicParsing="false" onAction="#goback" text="Terminer" />
+                  <Button fx:id="buttonAide" layoutX="548.0" layoutY="7.0" mnemonicParsing="false" onAction="#help" text="Aide" />
+               </children>
+            </AnchorPane>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
