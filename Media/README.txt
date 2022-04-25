@@ -1,7 +1,8 @@
 Videos of foosball matches
 ============================
 
-These folders contain video clips of foosball matches filmed from the top.The goal being to provide a database for tests.The name of each folder corresponds to the name of the origin video from which they had been taken.
+These folders contain video clips of foosball matches filmed from the top.The goal being to provide a database for tests.
+The name of each folder corresponds to the name of the original video from which the clips had been taken.
 
 -   Seq2 :
     -   S2ButDroite.MP4
