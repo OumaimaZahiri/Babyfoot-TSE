@@ -1,10 +1,8 @@
-Vidéos de matchs de baby-foot
+Videos of foosball matches
 ============================
 
-Les dossiers contiennent des extraits de vidéos de matchs de baby-foot
-filmés sur le dessus. Le nom du dossier correspond au nom de la vidéo
-complète dont elles sont issues. Chaque extrait correspond à un
-événement particulier ayant lieu sur le camp de droite ou de gauche :
+These folders contain video clips of foosball matches filmed from the top.The goal being to provide a database for tests.
+The name of each folder corresponds to the name of the original video from which the clips had been taken.
 
 -   Seq2 :
     -   S2ButDroite.MP4
