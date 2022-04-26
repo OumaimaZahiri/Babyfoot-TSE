@@ -1,4 +1,3 @@
-#Babyfoot-TSE
 
 - This application provides an assistance to the arbitration of Babyfoot matches as part of a group project created by 5 people : Maxime Boichon, Clément Bourlet, Enguerran De Larocque Latour, Ilyas Tibari and myself (Oumaima Zahiri).
 
